@@ -9,7 +9,7 @@
 Hey there, What brings you here today? Are you curious about my journey, or perhaps seeking some inspiration to kickstart your own coding adventure? Whatever the reason, I'm genuinely excited to share my story with you. Let's embark on this journey together.
 
 
-GSSoC i.e. GirlSricpt Summer of Code —it was the first open-source program I ever enrolled in. One day, while casually scrolling through LinkedIn, I stumbled upon a post announcing that applications were open for GSSoC. Being a freasher I was driven by curiosity and excitement to know about open source program as I have heard about it a lot from senior also seeing my fellowmates registering for it made me filled out the form on **April 21, 2024**. To my astonishment, just a few days later, on **April 30**, I received an email confirming my selection as a contributor. It felt like a dream come true.
+GSSoC i.e. GirlSricpt Summer of Code —it was the first open-source program I ever enrolled in. One day, while casually scrolling through LinkedIn, I stumbled upon a post announcing that applications were open for GSSoC. Being a freasher I was driven by curiosity and excitement to know about open source program as I have heard about it a lot from seniors, apart from it seeing my fellowmates registering for it made me filled out the form on **April 21, 2024**. To my astonishment, just a few days later, on **April 30**, I received an email confirming my selection as a contributor. It felt like a dream come true.
 
 <p float="left">
   <img src="assets\Selection Mail.jpg" width="400" />
