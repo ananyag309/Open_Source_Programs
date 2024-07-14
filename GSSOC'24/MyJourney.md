@@ -30,7 +30,7 @@ There were moments of frustration when I couldn’t fulfill or raise an issue du
 
 Solving level 3 issues, the highest point issues, brought immense happiness. Despite the mix of emotions, I never stopped. I even motivated my friends to join and experience the journey.
 
-Out of **27,000+ registrations** and **17,000+ participants**, ranking in top **25** is a significant achievement for me. This journey has been incredibly rewarding. From having zero knowledge to becoming a top 25 contributor, I’ve learned so much and grown both personally and professionally. It proves that with dedication and consistency, even the most intimidating challenges can be overcome. If I can do it, so can you.
+Out of **27,000+ registrations** and **17,000+ participants**, ranking in top **25** is a significant achievement for me. This journey has been incredibly rewarding. From having zero knowledge to becoming a top 25 contributor, I’ve learned so much and grown both personally and professionally. It proves that with dedication and consistency, even the most intimidating challenges can be overcome. If I can do it, so you can.
 
 ![Top 25 Badge](https://example.com/top25-badge.png)
 
