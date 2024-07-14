@@ -1,13 +1,10 @@
 <center>
-<img  src="https://readme-typing-svg.herokuapp.com?color=ffa500&size=40&width=900&height=80&lines=From 0 to Top 25: If I can so YOU can"/>
+<img  src="https://readme-typing-svg.herokuapp.com?color=ffa500&size=40&width=900&height=80&lines=From-0-to-top-25:-If-I-can-so-YOU-can!"/>
 </center>
 
 <img src="assets/Gssoc Label.png" alt="GSSoC Logo" width="200"/>
-<br>
-<br>
 
 # My Journey - GSSOC'24
-
 
 Hey there, What brings you here today? Are you curious about my journey, or perhaps seeking some inspiration to kickstart your own coding adventure? Whatever the reason, I'm genuinely excited to share my story with you. Let's embark on this journey together.
 
